@@ -1,0 +1,3 @@
+﻿  Merge sort c++.cpp
+E:\tarea\tereahub\c++\Merge sort c++\Merge sort c++\Merge sort c++.cpp(53,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Merge sort c++.vcxproj -> E:\tarea\tereahub\c++\Merge sort c++\x64\Debug\Merge sort c++.exe
